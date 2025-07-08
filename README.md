@@ -1,4 +1,4 @@
-# CUCSDemo![Page Visitors](https://komarev.com/ghpvc/?username=promptcoach&repo=CUCSDemo&page=README.md)
+[Page Visitors](https://komarev.com/ghpvc/?username=promptcoach&repo=CUCSDemo&page=README.md)
 
 # 🎯 This was a phishing attempt from [Sena](https://github.com/suctuk)!
 
