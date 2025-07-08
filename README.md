@@ -2,11 +2,14 @@
 
 # 🎯 This was a phishing attempt from [Sena](https://github.com/suctuk)!
 
-> This fake Google login page would have stolen your credentials.
+> This fake Google login page could have stolen your credentials.
 >
 > Always check the URL carefully - notice the suspicious domain in the address bar!
 
 ---
+#### Recieved permission from Hilary B to "send out a mass email to the people going to the meeting tomorrow to simulate a scam" at 9:52 PM July 7, 2025 over Microsoft Teams.
+
+### This simulation collected no personal information from the users who participated. Link to code [HERE](https://github.com/suctuk/suctuk.github.io/blob/main/Demos/CUCSDemo2.html)!
 
 ## How to Protect Yourself Against Phishing
 
@@ -17,6 +20,7 @@ Here are some key things to look out for to protect yourself:
 ### 1. Check the Sender's Information
 - **From Address:** Look closely at the sender's email address. Phishers often use email addresses that are very similar to legitimate ones, but with a slight misspelling or a different domain (e.g., `service@go0gle.com` instead of `service@google.com`).
 - **Sender Name:** Be aware that the sender's display name can be easily faked.
+- In this case, because I was sending it from my email, this can simulate one of your peers being compromised. 
 
 ### 2. Look for Generic Greetings
 - Legitimate companies you do business with will often address you by your name. Be suspicious of generic greetings like "Dear Valued Customer" or "Dear Sir/Madam."
@@ -37,3 +41,5 @@ Here are some key things to look out for to protect yourself:
 - If you receive a suspicious request from what appears to be a legitimate organization (like your bank), don't use the contact information in the email. Instead, go to their official website or use a phone number you know is legitimate to verify the request.
 
 Stay safe online!
+
+If you made it to the end congrats, you have recieved the prize of ✨knowledge✨ and I am very proud of you.
